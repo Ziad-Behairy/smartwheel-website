@@ -10,6 +10,7 @@ const Architecture = lazy(() => import('./pages/Architecture'));
 const TechStack = lazy(() => import('./pages/TechStack'));
 const Diagrams = lazy(() => import('./pages/Diagrams'));
 const LiveDemo = lazy(() => import('./pages/LiveDemo'));
+const SystemDemo = lazy(() => import('./pages/SystemDemo'));
 const Timeline = lazy(() => import('./pages/Timeline'));
 const Team = lazy(() => import('./pages/Team'));
 
@@ -34,6 +35,7 @@ function App() {
                 <Route path="/tech-stack" element={<TechStack />} />
                 <Route path="/diagrams" element={<Diagrams />} />
                 <Route path="/demo" element={<LiveDemo />} />
+                <Route path="/system-demo" element={<SystemDemo />} />
                 <Route path="/timeline" element={<Timeline />} />
                 <Route path="/team" element={<Team />} />
               </Routes>

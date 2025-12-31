@@ -15,6 +15,7 @@ const Navbar: React.FC = () => {
     { path: '/tech-stack', label: 'Tech Stack' },
     { path: '/diagrams', label: 'Diagrams' },
     { path: '/demo', label: 'Live Demo' },
+    { path: '/system-demo', label: 'Full System Demo' },
     { path: '/timeline', label: 'Timeline' },
     { path: '/team', label: 'Team' },
   ];
