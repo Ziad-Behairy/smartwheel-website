@@ -1,0 +1,13 @@
+{
+  "current": {
+    "heartRate": 72,
+    "spO2": 96,
+    "temperature": 36.8,
+    "timestamp": 1703980800000
+  },
+  "history": [
+    { "heartRate": 70, "spO2": 97, "temperature": 36.7, "timestamp": 1703977200000 },
+    { "heartRate": 75, "spO2": 96, "temperature": 36.9, "timestamp": 1703973600000 },
+    { "heartRate": 68, "spO2": 98, "temperature": 36.6, "timestamp": 1703970000000 }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "alert001",
+    "type": "critical",
+    "message": "Fall detected with abnormal vitals",
+    "timestamp": 1703980800000,
+    "resolved": true
+  },
+  {
+    "id": "alert002",
+    "type": "warning",
+    "message": "Heart rate elevated (145 bpm)",
+    "timestamp": 1703977200000,
+    "resolved": true
+  },
+  {
+    "id": "alert003",
+    "type": "info",
+    "message": "Battery low (15%)",
+    "timestamp": 1703973600000,
+    "resolved": false
+  }
+]
