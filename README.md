@@ -430,7 +430,7 @@ npm --version
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/smartwheel-website.git
+git clone https://github.com/Ziad-Behairy/smartwheel-website
 cd smartwheel-website
 ```
 
